@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 170.08 170.08" style="enable-background:new 0 0 170.08 170.08;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#323C4C;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#ECBD0B;stroke:#000000;stroke-width:0.8482;stroke-miterlimit:10;}
+	.st2{font-family:'BerlinBold';}
+	.st3{font-size:36.3837px;}
+	.st4{fill:#ECBD0B;}
+	.st5{fill:none;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#B18E08;}
+</style>
+<rect x="3.68" y="5.07" class="st0" width="161.84" height="159.94"/>
+<g>
+	<text transform="matrix(-7.871641e-03 -1.024 1 -7.857129e-03 49.4057 149.1131)" class="st1 st2 st3">Bit-bank</text>
+	<g>
+		<g>
+			
+				<rect x="57.07" y="21.97" transform="matrix(0.9999 -0.0155 0.0155 0.9999 -1.3063 1.1964)" class="st4" width="39.36" height="126.27"/>
+			
+				<ellipse transform="matrix(0.9999 -0.0155 0.0155 0.9999 -0.7884 1.4887)" class="st4" cx="95.91" cy="51.75" rx="29.35" ry="30.08"/>
+			
+				<ellipse transform="matrix(0.9999 -0.0155 0.0155 0.9999 -1.6732 1.7753)" class="st4" cx="114.01" cy="109.13" rx="37.6" ry="38.54"/>
+			
+				<rect x="77.48" y="116.19" transform="matrix(0.9999 -0.0155 0.0155 0.9999 -2.0296 1.5175)" class="st4" width="39.36" height="31.74"/>
+		</g>
+		
+			<rect x="68.51" y="17.09" transform="matrix(0.9999 -0.0155 0.0155 0.9999 -0.3321 1.1122)" class="st4" width="6.55" height="9.9"/>
+		
+			<rect x="70.46" y="143.34" transform="matrix(0.9999 -0.0155 0.0155 0.9999 -2.2832 1.1629)" class="st4" width="7.26" height="9.9"/>
+		
+			<rect x="84.68" y="16.84" transform="matrix(0.9999 -0.0155 0.0155 0.9999 -0.3262 1.3651)" class="st4" width="6.93" height="9.9"/>
+		
+			<rect x="86.63" y="143.09" transform="matrix(0.9999 -0.0155 0.0155 0.9999 -2.2775 1.4103)" class="st4" width="6.93" height="9.9"/>
+		
+			<rect x="52.42" y="22.5" transform="matrix(1 -7.859197e-03 7.859197e-03 1 -0.6677 0.4206)" class="st5" width="1.52" height="125.34"/>
+	</g>
+	<polygon class="st4" points="20.81,149.11 19.29,149.13 19,22.85 20.41,22.83 	"/>
+	<polygon class="st4" points="53.67,149.05 52.14,149.07 51.17,22.36 52.69,22.34 	"/>
+	<g>
+		<polygon class="st6" points="76.58,143.39 63.96,143.58 62.83,70.61 75.34,62.8 		"/>
+		<polygon class="st6" points="97.58,143.06 84.95,143.26 83.61,56.24 96.09,46.97 		"/>
+		<polygon class="st7" points="97.58,143.06 110.86,142.86 109.51,55.84 96.09,46.97 		"/>
+		<polygon class="st7" points="76.15,143.39 89.43,143.19 88.3,70.21 74.9,62.81 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon class="st4" points="-109.93,152.8 -126.44,164.42 -184.29,104.16 -167.78,92.54 		"/>
+		
+			<ellipse transform="matrix(0.5853 -0.8108 0.8108 0.5853 -150.5298 -80.5401)" class="st4" cx="-154" cy="106.89" rx="14.67" ry="20.18"/>
+		
+			<ellipse transform="matrix(0.5853 -0.8108 0.8108 0.5853 -154.7715 -43.9634)" class="st4" cx="-120.37" cy="129.33" rx="18.8" ry="25.86"/>
+		<polygon class="st4" points="-101.67,146.99 -118.19,158.61 -132.73,143.46 -116.22,131.84 		"/>
+	</g>
+	<polygon class="st4" points="-173.79,100.29 -176.82,102.86 -181.14,97.89 -178.11,95.33 	"/>
+	<polygon class="st4" points="-115.81,160.64 -118.39,162.71 -122.8,157.85 -120.22,155.78 	"/>
+	<polygon class="st4" points="-167.13,95.66 -170.03,98.08 -174.38,93.14 -171.48,90.72 	"/>
+	<polygon class="st4" points="-109.46,156.12 -112.18,158.34 -116.56,153.44 -113.84,151.22 	"/>
+	<polygon class="st6" points="-119.07,156.66 -124.37,160.39 -153.01,130.56 -150.7,123.72 	"/>
+	<polygon class="st6" points="-110.26,150.47 -115.56,154.19 -149.71,118.62 -147.98,111.18 	"/>
+	<polygon class="st7" points="-110.26,150.47 -104.69,146.55 -138.84,110.97 -147.98,111.18 	"/>
+	<polygon class="st7" points="-119.25,156.79 -113.68,152.87 -142.32,123.04 -150.88,123.85 	"/>
+	
+		<text transform="matrix(-0.9067 -0.9557 0.8234 -0.5675 -129.5323 166.6315)" class="st2" style="fill:#ECBD0B;stroke:#000000;stroke-width:0.4175;stroke-miterlimit:10; font-size:18.6917px;">Bit-bank</text>
+	<polygon class="st5" points="-128.31,165.12 -128.95,165.56 -185.97,105.46 -185.32,105.02 	"/>
+	<polygon class="st4" points="-142,174.56 -142.64,175 -199.66,114.9 -199.02,114.46 	"/>
+	<polygon class="st4" points="-126.86,164.78 -127.43,165.15 -186.19,104.53 -185.61,104.16 	"/>
+</g>
+</svg>
